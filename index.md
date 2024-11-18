@@ -1,18 +1,4 @@
-#Header 1# <H1>Hello my friend!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Hello my friend!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 This is meaningful
